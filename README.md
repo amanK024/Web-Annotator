@@ -1,8 +1,56 @@
-Web Annotator is a Chrome extension designed for annotating web pages with highlighting and note-taking functionalities. Users can highlight text, attach notes, search through annotations, and retrieve them easily. The annotations persist across sessions, ensuring seamless revisits to previously annotated pages.
 
-//Features
-Highlight Content: Select and highlight text on any webpage with customizable color-coded highlights.
-Add Notes: Attach contextual notes to highlighted content for personal insights and future reference.
-Persistence: Annotations persist across browser sessions, ensuring you can revisit pages with your annotations intact.
-Search and Retrieve: Search for specific annotations or filter them based on date, category, or keyword.
-Export and Share: Export annotated pages with highlights and notes to share with others or save for offline reference
+# Web Annotator
+
+Web Annotator is a web-based tool designed to help users annotate web pages with comments, highlights, and notes. This tool is especially useful for researchers, students, and professionals who need to mark up web content for reference and analysis.
+
+## Features
+
+- Highlight text on any web page.
+- Add comments and notes to specific sections of the web page.
+- Save and load annotations for future reference.
+- Export annotations in various formats.
+- User-friendly interface with easy navigation.
+
+## Installation
+
+To get started with the Web Annotator, follow these steps:
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/amanK024/Web-Annotator.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd Web-Annotator
+   ```
+3. Install the required dependencies:
+   ```
+   npm install
+   ```
+
+## Usage
+
+To start the application, run:
+```
+npm start
+```
+
+Then open your browser and navigate to `http://localhost:3000` to start using the Web Annotator.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code adheres to the project's coding standards and includes appropriate tests.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Acknowledgements
+
+- Thanks to the developers and contributors who have made this project possible.
+- Special thanks to [Aman's GitHub](https://github.com/amanK024) for hosting the repository.
+
+## Contact
+
+For any questions or feedback, please contact [Aman K.](https://github.com/amanK024).
+
