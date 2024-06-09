@@ -47,7 +47,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- Thanks to the developers and contributors who have made this project possible.
+- Thanks to the developers and contributors who have guide this project.
 - Special thanks to [Aman's GitHub](https://github.com/amanK024) for hosting the repository.
 
 ## Contact
