@@ -7,7 +7,7 @@ Web Annotator is a web-based tool designed to help users annotate web pages with
 
 - Highlight text on any web page.
 - Add comments and notes to specific sections of the web page.
-- Save and load annotations for future reference.
+- Save and search annotations for future reference.
 - Export annotations in various formats.
 - User-friendly interface with easy navigation.
 
